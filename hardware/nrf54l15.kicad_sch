@@ -8064,12 +8064,6 @@
 		(uuid "0ef1c2aa-b09a-49b4-a016-073312af8577")
 	)
 	(junction
-		(at 361.95 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "12739321-b5dd-4d97-a345-4bfe6b63bbeb")
-	)
-	(junction
 		(at 149.86 255.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8163,7 +8157,7 @@
 		(at 361.95 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "51113bc7-9d46-45f2-a8f4-59eee2775856")
+		(uuid "5974f002-a796-476d-8aa3-f5645572dd02")
 	)
 	(junction
 		(at 290.83 100.33)
@@ -8200,6 +8194,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7f028a5c-8f14-42c9-b97c-a2a4a7747ed8")
+	)
+	(junction
+		(at 361.95 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "892a3963-aca8-44c2-94f1-db96baa2959a")
 	)
 	(junction
 		(at 82.55 243.84)
@@ -9311,7 +9311,7 @@
 	)
 	(wire
 		(pts
-			(xy 361.95 113.03) (xy 361.95 114.3)
+			(xy 361.95 113.03) (xy 361.95 115.57)
 		)
 		(stroke
 			(width 0)
@@ -10881,7 +10881,7 @@
 	)
 	(wire
 		(pts
-			(xy 361.95 121.92) (xy 361.95 125.73)
+			(xy 361.95 123.19) (xy 361.95 125.73)
 		)
 		(stroke
 			(width 0)
@@ -12054,6 +12054,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C51933306"
+			(at 149.86 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "93ba784c-14ab-4de4-a5e1-675aa0f9e95e")
 		)
@@ -12214,7 +12225,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C723363"
 			(at 64.77 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -12413,10 +12424,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1486c0f6-2a01-4b3c-be86-10f088fa1daf")
 		(property "Reference" "TP11"
@@ -12552,7 +12563,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C3911055"
 			(at 146.05 147.32 90)
 			(hide yes)
 			(show_name no)
@@ -12645,7 +12656,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C7432767"
 			(at 374.65 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -12749,6 +12760,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C22374842"
+			(at 152.4 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "79b197c5-99aa-44e9-8556-2b4f4325daed")
 		)
@@ -12831,7 +12853,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C106861"
 			(at 374.65 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -13212,7 +13234,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
+		(property "Footprint" "PCM_ckl-connector:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 48.26 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -13245,7 +13267,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C393939"
+		(property "LCSC Part #" "C2681555"
 			(at 44.45 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -13466,7 +13488,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C22471111"
+		(property "LCSC Part #" "C5832372"
 			(at 351.79 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -13726,7 +13748,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C519560"
 			(at 361.95 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -13830,7 +13852,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C253528"
+		(property "LCSC Part #" "C42412321"
 			(at 147.32 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -14082,7 +14104,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60474"
 			(at 46.99 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -14203,10 +14225,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "417cd80e-4907-424e-bded-cfc77f348af9")
 		(property "Reference" "TP5"
@@ -14331,6 +14353,17 @@
 			)
 		)
 		(property "Description" "small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 87.63 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C88374"
 			(at 87.63 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -14501,7 +14534,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C7432767"
 			(at 387.35 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -14605,6 +14638,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C541383"
+			(at 92.71 248.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9c499e73-292c-46fc-94cc-c8991a5b36e0")
 		)
@@ -14627,10 +14671,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5455bcf8-1850-48e4-9fce-7a57fdbfac0f")
 		(property "Reference" "TP9"
 			(at 284.48 147.0024 0)
@@ -15077,7 +15121,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C3911055"
 			(at 158.75 147.32 90)
 			(hide yes)
 			(show_name no)
@@ -15187,10 +15231,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5b75746e-03bc-4763-8822-273f37d693d8")
 		(property "Reference" "AE1"
@@ -15653,6 +15697,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C723329"
+			(at 165.1 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0edb528a-5985-49ca-bf07-b8168a07abee")
 		)
@@ -15723,6 +15778,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 41.91 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2888428"
 			(at 41.91 256.54 0)
 			(hide yes)
 			(show_name no)
@@ -15815,6 +15881,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2906900"
+			(at 140.97 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a24d5f8e-ab2b-4ac3-bfb3-9178efdf25cc")
 		)
@@ -15897,7 +15974,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60474"
 			(at 59.69 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -16019,10 +16096,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "67ae1981-bfe7-4a1b-aba1-23a1362eef37")
 		(property "Reference" "J6"
 			(at 236.22 205.74 0)
@@ -16046,7 +16123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical"
+		(property "Footprint" "nrf54:Castellated_1x20_P2.54mm_Vertical"
 			(at 236.22 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -16311,10 +16388,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6d45e814-fed5-496d-bc79-527a7eb61f68")
 		(property "Reference" "BT1"
@@ -16426,10 +16503,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "70418921-1b17-44c4-8a49-b29a73dd8a9e")
 		(property "Reference" "TP8"
@@ -16634,6 +16711,17 @@
 		)
 		(property "Description" "Inductor"
 			(at 133.35 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C337946"
+			(at 133.35 147.32 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16857,7 +16945,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C141722"
 			(at 34.29 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -16961,6 +17049,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C281756"
+			(at 115.57 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8701581f-26f0-40d9-aaaf-4aa77d4401d5")
 		)
@@ -17043,7 +17142,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60474"
 			(at 72.39 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -17147,7 +17246,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C7432767"
 			(at 34.29 127 0)
 			(hide yes)
 			(show_name no)
@@ -17319,6 +17418,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 149.86 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2906861"
 			(at 149.86 226.06 0)
 			(hide yes)
 			(show_name no)
@@ -17506,10 +17616,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9526f64f-61d8-4742-a9a8-8af757367374")
 		(property "Reference" "TP6"
@@ -17725,7 +17835,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C5137480"
 			(at 46.99 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -18000,7 +18110,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C394952"
 			(at 64.77 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -18257,6 +18367,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2906861"
+			(at 121.92 160.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "efe0344f-6d5a-47de-ab09-6dec0f037699")
 		)
@@ -18356,10 +18477,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b01eee42-45e7-4cb9-9f48-cb356f038c7f")
 		(property "Reference" "J5"
 			(at 231.14 205.74 0)
@@ -18383,7 +18504,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical"
+		(property "Footprint" "nrf54:Castellated_1x20_P2.54mm_Vertical"
 			(at 231.14 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -18491,10 +18612,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b6751f0b-2809-411e-9b9b-5f09d02bdb1b")
 		(property "Reference" "J7"
 			(at 238.76 260.35 90)
@@ -19096,7 +19217,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c5e17478-80ff-448b-9d6b-84f63eb8d5cd")
 		(property "Reference" "JP1"
@@ -19254,7 +19375,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "cc2cd41a-fdbf-40d2-84a5-c1d3b47aa2ea")
 		(property "Reference" "H2"
@@ -19325,7 +19446,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 361.95 118.11 0)
+		(at 361.95 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19336,7 +19457,7 @@
 		(fields_autoplaced yes)
 		(uuid "cc973975-b89e-4912-8607-2ce16aa8eb7d")
 		(property "Reference" "C13"
-			(at 365.76 116.8399 0)
+			(at 365.76 118.1099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19347,7 +19468,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 365.76 119.3799 0)
+			(at 365.76 120.6499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19358,7 +19479,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 362.9152 121.92 0)
+			(at 362.9152 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19369,7 +19490,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 361.95 118.11 0)
+			(at 361.95 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19380,7 +19501,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 361.95 118.11 0)
+			(at 361.95 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19390,8 +19511,8 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
-			(at 361.95 118.11 0)
+		(property "LCSC Part #" "C7432767"
+			(at 361.95 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19402,7 +19523,7 @@
 			)
 		)
 		(property "Other Part #" ""
-			(at 361.95 118.11 0)
+			(at 361.95 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19494,7 +19615,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60474"
 			(at 46.99 127 0)
 			(hide yes)
 			(show_name no)
@@ -19588,6 +19709,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 139.7 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C435397"
 			(at 139.7 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -19834,6 +19966,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2888428"
+			(at 41.91 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f2f1ba05-c6b3-4164-a89d-cf88e780bfcb")
 		)
@@ -19933,10 +20076,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d796ede6-b2fc-455e-838d-bc476a33de7a")
 		(property "Reference" "TP7"
@@ -20320,7 +20463,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C519560"
 			(at 287.02 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -20623,7 +20766,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 297.18 150.368 90)
 			(hide yes)
 			(show_name no)
@@ -20647,6 +20790,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 297.18 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C163830"
+			(at 297.18 148.59 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21217,7 +21371,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60474"
 			(at 288.29 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -21399,7 +21553,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C106861"
 			(at 59.69 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -21492,6 +21646,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 82.55 248.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C541383"
 			(at 82.55 248.92 0)
 			(hide yes)
 			(show_name no)
@@ -21897,7 +22062,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C723363"
 			(at 34.29 165.1 0)
 			(hide yes)
 			(show_name no)

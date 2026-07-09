@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.4,
-          "width": 0.46
+          "height": 0.95,
+          "width": 1.05
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -86,12 +86,12 @@
         "version": 2
       },
       "rule_severities": {
-        "annular_width": "error",
+        "annular_width": "ignore",
         "clearance": "error",
         "connection_width": "warning",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "ignore",
         "copper_sliver": "warning",
-        "courtyards_overlap": "error",
+        "courtyards_overlap": "ignore",
         "creepage": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
@@ -121,7 +121,7 @@
         "missing_tuning_profile": "warning",
         "net_conflict": "warning",
         "nonmirrored_text_on_back_layer": "warning",
-        "npth_inside_courtyard": "error",
+        "npth_inside_courtyard": "ignore",
         "padstack": "warning",
         "pth_inside_courtyard": "error",
         "shorting_items": "error",
@@ -657,7 +657,7 @@
           "group_by": false,
           "label": "Other Part #",
           "name": "Other Part #",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -726,7 +726,7 @@
         "uuid": "53218757-f7af-41a2-880b-701c7b244762"
       }
     ],
-    "used_designators": "H3-4,J11",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

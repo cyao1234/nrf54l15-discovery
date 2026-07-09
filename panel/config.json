@@ -1,0 +1,22 @@
+{
+    "layout": {
+        "cols": "4"
+    },
+    "tabs": {
+        "type": "fixed"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "layer": "User.1"
+    },
+    "framing": {
+        "type": "railslr",
+        "hspace": "0mm"
+    },
+    "tooling": {
+        "type": "3hole",
+        "hoffset": "2.5mm",
+        "voffset": "2.5mm",
+        "paste": "True"
+    }
+}

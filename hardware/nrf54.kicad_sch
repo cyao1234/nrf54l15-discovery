@@ -187,7 +187,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c523aa4e-4d28-4aaf-a395-f50e0513404c")
 		(property "Reference" "H4"
@@ -265,7 +265,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f50f86a4-1f5f-45eb-90fc-87025f1f906a")
 		(property "Reference" "H3"
