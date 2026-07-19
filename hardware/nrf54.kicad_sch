@@ -5,7 +5,11 @@
 	(uuid "53218757-f7af-41a2-880b-701c7b244762")
 	(paper "A4")
 	(title_block
+		(title "nRF54L15 Discovery")
+		(date "05/06/2026")
+		(rev "v1.0")
 		(company "Icy Electronics")
+		(comment 1 "Chengyin (cheyao)")
 	)
 	(lib_symbols
 		(symbol "Mechanical:MountingHole"
