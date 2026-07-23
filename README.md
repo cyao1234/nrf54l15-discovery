@@ -66,7 +66,7 @@ To get started, just follow Zephyr's [Getting Started](https://docs.zephyrprojec
 
 The nRF54L15 Discovery is available on the following sites:
 
-<a href="https://lectronz.com/products/nrf54l15-discovery" alt="Buy it on Lectronz"><img src="https://lectronz-images.b-cdn.net/static/badges/buy-it-on-lectronz-medium.png" /></a>
+<a href="https://lectronz.com/products/nrf54l15-discovery" alt="Buy it on Lectronz"><img src="https://lectronz-images.b-cdn.net/static/badges/buy-it-on-lectronz-medium.png" /></a><a href="https://www.tindie.com/stores/icy-elec/?ref=offsite_badges&utm_source=sellers_Cyao&utm_medium=badges&utm_campaign=badge_medium"><img src="https://static.tindie.com/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
 
 (Got some extra units; cost covers material costs)
 
