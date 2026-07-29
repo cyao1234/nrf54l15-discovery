@@ -70,3 +70,7 @@ The nRF54L15 Discovery is available on the following sites:
 
 (Got some extra units; cost covers material costs)
 
+| Item | Price |
+| --- | ---- |
+| PCB | $120 |
+| PCBA | $230 |
