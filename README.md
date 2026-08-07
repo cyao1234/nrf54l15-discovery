@@ -74,3 +74,7 @@ The nRF54L15 Discovery is available on the following sites:
 | --- | ---- |
 | PCB | $120 |
 | PCBA | $230 |
+
+
+Download firmware here:
+https://github.com/cheyao/nrf54l15-discovery/releases/tag/v1.0
